@@ -16,3 +16,7 @@ For the questions to ask the chatbot, here are some references:
 - How many items are on sale? What is the cheapest item that is on sale?
 
 (Due to the limited number of scraped webpages, the answer might not be 100% correct.)
+
+## Acknowledgement
+
+This project is greatly inspired by Harrison Chase's project of [ChatLangChain](https://github.com/hwchase17/chat-langchain).
